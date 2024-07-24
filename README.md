@@ -1,1 +1,1 @@
-# myocardial-endothelial-cell-heterogeneity-LVH
+This repository contains code and data analysis for investigating the functional heterogeneity and plasticity of myocardial endothelial cells using single-cell RNA sequencing and sn-multiome ATAC+GEX in pressure-overload induced hypertrophy. The study includes integration of gene expression and chromatin accessibility data, cell clustering, differential gene expression analysis, and motif enrichment analysis. Raw data and detailed analysis workflows are provided.
